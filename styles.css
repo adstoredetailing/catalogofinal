@@ -192,6 +192,19 @@ footer {
   border-radius: 10px;
   display: inline-block;
 }
+@media (max-width: 600px) {
+  .search-bar {
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+  }
 
-
+  #searchInput,
+  #categorySelect {
+    font-size: 18px;
+    padding: 12px 10px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+}
   
