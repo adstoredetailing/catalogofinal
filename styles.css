@@ -18,9 +18,10 @@ header {
 
 /* Logo principal */
 .logo {
-  width: 160px;
+  width: 180px; /* Podés ajustar este valor */
+  height: auto;
+  margin: 20px auto;
   display: block;
-  margin: 0 auto 10px;
 }
 
 /* Contenedor header */
@@ -230,6 +231,10 @@ footer {
 
     width: 100%;
     box-sizing: border-box;
+  }
+    @media (max-width: 600px) {
+  .logo {
+    width: 200px;
   }
 }
   
