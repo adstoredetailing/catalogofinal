@@ -37,13 +37,23 @@ function llenarCategorias() {
 
 document.getElementById("searchInput").addEventListener("input", filtrar);
 document.getElementById("categorySelect").addEventListener("change", filtrar);
+const categoryTitle = document.getElementById("categoryTitle");
 
 function filtrar() {
   const texto = document.getElementById("searchInput").value.toLowerCase();
   const categoria = document.getElementById("categorySelect").value;
+
   const filtrados = productos.filter(p =>
     (categoria === "Todas" || p.categoria === categoria) &&
     p.nombre.toLowerCase().includes(texto)
   );
+
+  // Actualizar título
+  if (categoria === "Todas" || categoria === "all") {
+    categoryTitle.textContent = "Mostrando todos los productos";
+  } else {
+    categoryTitle.textContent = `Categoría: ${categoria}`;
+  }
+
   renderProductos(filtrados);
 }
