@@ -18,7 +18,7 @@ header {
 
 /* Logo principal */
 .logo {
-  width: 210px; /* Podés ajustar este valor */
+  width: 400px; /* Podés ajustar este valor */
   height: auto;
   margin: 20px auto;
   display: block;
@@ -234,7 +234,7 @@ footer {
   }
     @media (max-width: 600px) {
   .logo {
-    width: 300px;
+    width: 600px;
   }
 }
   
