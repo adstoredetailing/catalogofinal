@@ -212,26 +212,16 @@ footer {
   background-position: 12px center;
   padding-left: 42px;
 }
-
-/* Responsive: agrandar en celular */
 @media (max-width: 600px) {
-  .search-bar {
-    flex-direction: column;
-    gap: 10px;
-    width: 100%;
-  }
-
   #searchInput,
   #categorySelect {
     font-size: 18px;
     padding: 14px 16px;
+    height: auto;
     width: 100%;
     box-sizing: border-box;
   }
-
-    width: 100%;
-    box-sizing: border-box;
-  }
+}
    @media (max-width: 600px) {
   .logo {
     width: 220px;
