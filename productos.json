@@ -138,10 +138,10 @@
         "imagen": "wova7-104-renovador-de-caucho-500ml.jpg"
     },
     {
-        "nombre": "ALL DETAIL THICK BLUE GEL O GOLD TIRE 500ML",
+        "nombre": "ALL DETAIL THICK BLUE GEL",
         "precio": "$ 8400,00",
         "categoria": "GENERAL",
-        "imagen": "all-detail-thick-blue-gel-o-gold-tire-500ml.jpg"
+        "imagen": "all-detail-thick-blue-gel-500ml.jpg"
     },
     {
         "nombre": "WOVA7 108 LIMPIA LLANTAS 5 LTS",
@@ -165,7 +165,7 @@
         "nombre": "DROPS WHEEL CREAM",
         "precio": "$ 9600,00",
         "categoria": "GENERAL",
-        "imagen": "drops-wheel-cream.jpg"
+        "imagen": "drops-wheel-cream.png"
     },
     {
         "nombre": "GLABS INTERIOR DRESSING 500ML",
@@ -249,19 +249,19 @@
         "nombre": "DROPS DRESSING SOFT",
         "precio": "$ 13800,00",
         "categoria": "GENERAL",
-        "imagen": "drops-dressing-soft.jpg"
+        "imagen": "drops-dressing-soft.png"
     },
     {
         "nombre": "DROPS DRESSING BLACK LEVEL",
         "precio": "$ 14100,00",
         "categoria": "GENERAL",
-        "imagen": "drops-dressing-black-level.jpg"
+        "imagen": "drops-dressing-black-level.png"
     },
     {
         "nombre": "DROPS INTERIOR RENEWER",
         "precio": "$ 14400,00",
         "categoria": "GENERAL",
-        "imagen": "drops-interior-renewer.jpg"
+        "imagen": "drops-interior-renewer.png"
     },
     {
         "nombre": "GLABS POWER CLEANER 500ML",
@@ -369,25 +369,25 @@
         "nombre": "DROPS CLEANER SOFT",
         "precio": "$ 19800,00",
         "categoria": "GENERAL",
-        "imagen": "drops-cleaner-soft.jpg"
+        "imagen": "drops-cleaner-soft.png"
     },
     {
         "nombre": "DROPS CLEANER STRONG",
         "precio": "$ 20100,00",
         "categoria": "GENERAL",
-        "imagen": "drops-cleaner-strong.jpg"
+        "imagen": "drops-cleaner-strong.png"
     },
     {
         "nombre": "DROPS BUG REMOVER",
         "precio": "$ 20400,00",
         "categoria": "GENERAL",
-        "imagen": "drops-bug-remover.jpg"
+        "imagen": "drops-bug-remover.png"
     },
     {
         "nombre": "DROPS WATERLESS",
         "precio": "$ 20700,00",
         "categoria": "GENERAL",
-        "imagen": "drops-waterless.jpg"
+        "imagen": "drops-waterless.png"
     },
     {
         "nombre": "GLABS IPA CLEANER 500ML",
@@ -459,7 +459,7 @@
         "nombre": "DROPS GLASS CLEANER",
         "precio": "$ 24300,00",
         "categoria": "GENERAL",
-        "imagen": "drops-glass-cleaner.jpg"
+        "imagen": "drops-glass-cleaner.png"
     },
     {
         "nombre": "GLABS CALIFORNIA SHINE 500ML",
@@ -525,25 +525,13 @@
         "nombre": "DROPS QUICK DETAILER",
         "precio": "$ 27600,00",
         "categoria": "GENERAL",
-        "imagen": "drops-quick-detailer.jpg"
-    },
-    {
-        "nombre": "DROPS MIRROR SHINE",
-        "precio": "$ 27900,00",
-        "categoria": "GENERAL",
-        "imagen": "drops-mirror-shine.jpg"
-    },
-    {
-        "nombre": "DROPS BLACK ARMOR",
-        "precio": "$ 28200,00",
-        "categoria": "GENERAL",
-        "imagen": "drops-black-armor.jpg"
+        "imagen": "drops-quick-detailer.png"
     },
     {
         "nombre": "DROPS CARNAUBA WAX",
         "precio": "$ 28500,00",
         "categoria": "GENERAL",
-        "imagen": "drops-carnauba-wax.jpg"
+        "imagen": "drops-carnauba-wax.png"
     },
     {
         "nombre": "GLABS SHAMPOO PH7 500ML",
@@ -669,19 +657,19 @@
         "nombre": "DROPS SHAMPOO CON CERA",
         "precio": "$ 34800,00",
         "categoria": "GENERAL",
-        "imagen": "drops-shampoo-con-cera.jpg"
+        "imagen": "drops-shampoo-con-cera.png"
     },
     {
         "nombre": "DROPS SHAMPOO NEUTRO",
         "precio": "$ 35100,00",
         "categoria": "GENERAL",
-        "imagen": "drops-shampoo-neutro.jpg"
+        "imagen": "drops-shampoo-neutro.png"
     },
     {
         "nombre": "DROPS SHAMPOO FOAM",
         "precio": "$ 35400,00",
         "categoria": "GENERAL",
-        "imagen": "drops-shampoo-foam.jpg"
+        "imagen": "drops-shampoo-foam.png"
     },
     {
         "nombre": "GLABS LEATHER CLEANER",
@@ -711,13 +699,13 @@
         "nombre": "DROPS LEATHER DRESSING",
         "precio": "$ 36900,00",
         "categoria": "GENERAL",
-        "imagen": "drops-leather-dressing.jpg"
+        "imagen": "drops-leather-dressing.png"
     },
     {
         "nombre": "DROPS LEATHER CLEANER",
         "precio": "$ 37200,00",
         "categoria": "GENERAL",
-        "imagen": "drops-leather-cleaner.jpg"
+        "imagen": "drops-leather-cleaner.png"
     },
     {
         "nombre": "MENZERNA 300 1L",
@@ -765,7 +753,7 @@
         "nombre": "DROPS PAINT PREPARE",
         "precio": "$ 39600,00",
         "categoria": "GENERAL",
-        "imagen": "drops-paint-prepare.jpg"
+        "imagen": "drops-paint-prepare.png"
     },
     {
         "nombre": "SAPHIRUS ROUTE 66",
@@ -801,7 +789,7 @@
         "nombre": "DROPS PERFUME COLGANTE",
         "precio": "$ 41400,00",
         "categoria": "GENERAL",
-        "imagen": "drops-perfume-colgante.jpg"
+        "imagen": "drops-perfume-colgante.png"
     },
     {
         "nombre": "GIBER MULTISPRAYER 500",
@@ -892,11 +880,5 @@
         "precio": "$ 45900,00",
         "categoria": "GENERAL",
         "imagen": "autocare-pincel.jpg"
-    },
-    {
-        "nombre": "LOGO",
-        "precio": "$ 46200,00",
-        "categoria": "GENERAL",
-        "imagen": "logo.png"
     }
 ]
