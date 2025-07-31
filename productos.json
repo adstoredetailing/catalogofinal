@@ -1,0 +1,902 @@
+[
+    {
+        "nombre": "LAFFITTE MICROFIBRA DE SECADO 80X40",
+        "precio": "$ 1500,00",
+        "categoria": "GENERAL",
+        "imagen": "laffitte-microfibra-de-secado-80x40.jpg"
+    },
+    {
+        "nombre": "MAXSHINE MICROFIBRA AMARILLA 40X60",
+        "precio": "$ 1800,00",
+        "categoria": "GENERAL",
+        "imagen": "maxshine-microfibra-amarilla-40x60.jpg"
+    },
+    {
+        "nombre": "LAFFITE MICROFIBRA DE SECADO 60X40",
+        "precio": "$ 2100,00",
+        "categoria": "GENERAL",
+        "imagen": "laffite-microfibra-de-secado-60x40.jpg"
+    },
+    {
+        "nombre": "LAFFITTE MANOPLA PROFESIONAL MICROFIBRA",
+        "precio": "$ 2400,00",
+        "categoria": "GENERAL",
+        "imagen": "laffitte-manopla-profesional-microfibra.jpg"
+    },
+    {
+        "nombre": "LAFFITTE MICROFIBRA MULTIUSO 35X35",
+        "precio": "$ 2700,00",
+        "categoria": "GENERAL",
+        "imagen": "laffitte-microfibra-multiuso-35x35.jpg"
+    },
+    {
+        "nombre": "LAFFITTE MICROFIBRA VIDRIOS 35X35",
+        "precio": "$ 3000,00",
+        "categoria": "GENERAL",
+        "imagen": "laffitte-microfibra-vidrios-35x35.jpg"
+    },
+    {
+        "nombre": "LAFFITTE MANOPLA RASTAS",
+        "precio": "$ 3300,00",
+        "categoria": "GENERAL",
+        "imagen": "laffitte-manopla-rastas.jpg"
+    },
+    {
+        "nombre": "LAFFITTE MICROFIBRA MULTIUSO GRIS 40X40",
+        "precio": "$ 3600,00",
+        "categoria": "GENERAL",
+        "imagen": "laffitte-microfibra-multiuso-gris-40x40.jpg"
+    },
+    {
+        "nombre": "MAXSHINE MICROFIBRA AZUL 40X40",
+        "precio": "$ 3900,00",
+        "categoria": "GENERAL",
+        "imagen": "maxshine-microfibra-azul-40x40.jpg"
+    },
+    {
+        "nombre": "LAFFITTE MICROFIBRA MULTIUSO 60X40",
+        "precio": "$ 4200,00",
+        "categoria": "GENERAL",
+        "imagen": "laffitte-microfibra-multiuso-60x40.jpg"
+    },
+    {
+        "nombre": "LAFFITTE MICROFIBRA DE SECADO 90X60",
+        "precio": "$ 4500,00",
+        "categoria": "GENERAL",
+        "imagen": "laffitte-microfibra-de-secado-90x60.jpg"
+    },
+    {
+        "nombre": "LAFFITTE MICROFIBRA DE SECADO 70X50",
+        "precio": "$ 4800,00",
+        "categoria": "GENERAL",
+        "imagen": "laffitte-microfibra-de-secado-70x50.jpg"
+    },
+    {
+        "nombre": "LAFFITTE MICROFIBRA DE SECADO WAFLE 60X40",
+        "precio": "$ 5100,00",
+        "categoria": "GENERAL",
+        "imagen": "laffitte-microfibra-de-secado-wafle-60x40.jpg"
+    },
+    {
+        "nombre": "LAFFITTE APLICADOR DE MICROFIBRA CON BOLSILLO MULTIUSO",
+        "precio": "$ 5400,00",
+        "categoria": "GENERAL",
+        "imagen": "laffitte-aplicador-de-microfibra-con-bolsillo-multiuso.jpg"
+    },
+    {
+        "nombre": "ALL DETAIL MANOPLA MICROFIBRA",
+        "precio": "$ 5700,00",
+        "categoria": "GENERAL",
+        "imagen": "all-detail-manopla-microfibra.jpg"
+    },
+    {
+        "nombre": "ALL DETAIL ESPONJA PARA INSECTOS",
+        "precio": "$ 6000,00",
+        "categoria": "GENERAL",
+        "imagen": "all-detail-esponja-para-insectos.jpg"
+    },
+    {
+        "nombre": "GLABS BLACK GEL",
+        "precio": "$ 6300,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-black-gel.jpg"
+    },
+    {
+        "nombre": "GLABS COVER MATT",
+        "precio": "$ 6600,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-cover-matt.jpg"
+    },
+    {
+        "nombre": "GLABS RED GLOSS 5L",
+        "precio": "$ 6900,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-red-gloss-5l.jpg"
+    },
+    {
+        "nombre": "WOVA7 113 RENOVADOR DE CAUCHO 5L",
+        "precio": "$ 7200,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-113-renovador-de-caucho-5l.jpg"
+    },
+    {
+        "nombre": "WOVA7 113 RENOVADOR DE CAUCHO 500ML",
+        "precio": "$ 7500,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-113-renovador-de-caucho-500ml.jpg"
+    },
+    {
+        "nombre": "WOVA7 116 RECUPERADOR DE CAUCHO MATE 500ML",
+        "precio": "$ 7800,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-116-recuperador-de-caucho-mate-500ml.jpg"
+    },
+    {
+        "nombre": "WOVA7 104 RENOVADOR DE CAUCHO 500ML",
+        "precio": "$ 8100,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-104-renovador-de-caucho-500ml.jpg"
+    },
+    {
+        "nombre": "ALL DETAIL THICK BLUE GEL O GOLD TIRE 500ML",
+        "precio": "$ 8400,00",
+        "categoria": "GENERAL",
+        "imagen": "all-detail-thick-blue-gel-o-gold-tire-500ml.jpg"
+    },
+    {
+        "nombre": "WOVA7 108 LIMPIA LLANTAS 5 LTS",
+        "precio": "$ 8700,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-108-limpia-llantas-5-lts.jpg"
+    },
+    {
+        "nombre": "WOVA7 113 RENOVADOR CAUCHO PROF 5 LTS",
+        "precio": "$ 9000,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-113-renovador-caucho-prof-5-lts.jpg"
+    },
+    {
+        "nombre": "POLIAUTO APLICADOR AMARILLO DE ESPUMA",
+        "precio": "$ 9300,00",
+        "categoria": "GENERAL",
+        "imagen": "poliauto-aplicador-amarillo-de-espuma.jpg"
+    },
+    {
+        "nombre": "DROPS WHEEL CREAM",
+        "precio": "$ 9600,00",
+        "categoria": "GENERAL",
+        "imagen": "drops-wheel-cream.jpg"
+    },
+    {
+        "nombre": "GLABS INTERIOR DRESSING 500ML",
+        "precio": "$ 9900,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-interior-dressing-500ml.jpg"
+    },
+    {
+        "nombre": "GLABS BACK CREAM 500ML",
+        "precio": "$ 10200,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-back-cream-500ml.jpg"
+    },
+    {
+        "nombre": "GLABS INTERIOR DRESSING 5L",
+        "precio": "$ 10500,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-interior-dressing-5l.jpg"
+    },
+    {
+        "nombre": "GLABS BLACK LINE",
+        "precio": "$ 10800,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-black-line.jpg"
+    },
+    {
+        "nombre": "WOVA7 105 RENOVADOR DE INTERIOR 500ML",
+        "precio": "$ 11100,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-105-renovador-de-interior-500ml.jpg"
+    },
+    {
+        "nombre": "ALL DETAIL RENOVADOR DE INTERIORES",
+        "precio": "$ 11400,00",
+        "categoria": "GENERAL",
+        "imagen": "all-detail-renovador-de-interiores.jpg"
+    },
+    {
+        "nombre": "WOVA7 109 LIMPIA TAPIZADOS 500 ML",
+        "precio": "$ 11700,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-109-limpia-tapizados-500-ml.jpg"
+    },
+    {
+        "nombre": "WOVA7 110 NUTRIDOR DE CUERO 500 ML",
+        "precio": "$ 12000,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-110-nutridor-de-cuero-500-ml.jpg"
+    },
+    {
+        "nombre": "WOVA7 111 ELIMINA OLORES 250 ML",
+        "precio": "$ 12300,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-111-elimina-olores-250-ml.jpg"
+    },
+    {
+        "nombre": "WOVA7 112 LAVACOCHES PROFESIONAL 500ML",
+        "precio": "$ 12600,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-112-lavacoches-profesional-500ml.jpg"
+    },
+    {
+        "nombre": "WOVA7 105 RENOVADOR DE INTERIORES 5 LTS",
+        "precio": "$ 12900,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-105-renovador-de-interiores-5-lts.jpg"
+    },
+    {
+        "nombre": "WOVA7 109 LIMPIA TAPIZADOS 5 LTS",
+        "precio": "$ 13200,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-109-limpia-tapizados-5-lts.jpg"
+    },
+    {
+        "nombre": "WOVA7 110 NUTRIDOR DE CUERO 5 LTS",
+        "precio": "$ 13500,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-110-nutridor-de-cuero-5-lts.jpg"
+    },
+    {
+        "nombre": "DROPS DRESSING SOFT",
+        "precio": "$ 13800,00",
+        "categoria": "GENERAL",
+        "imagen": "drops-dressing-soft.jpg"
+    },
+    {
+        "nombre": "DROPS DRESSING BLACK LEVEL",
+        "precio": "$ 14100,00",
+        "categoria": "GENERAL",
+        "imagen": "drops-dressing-black-level.jpg"
+    },
+    {
+        "nombre": "DROPS INTERIOR RENEWER",
+        "precio": "$ 14400,00",
+        "categoria": "GENERAL",
+        "imagen": "drops-interior-renewer.jpg"
+    },
+    {
+        "nombre": "GLABS POWER CLEANER 500ML",
+        "precio": "$ 14700,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-power-cleaner-500ml.jpg"
+    },
+    {
+        "nombre": "GLABS POWER CLEANER 1L",
+        "precio": "$ 15000,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-power-cleaner-1l.jpg"
+    },
+    {
+        "nombre": "GLABS DEGREASER 1L",
+        "precio": "$ 15300,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-degreaser-1l.jpg"
+    },
+    {
+        "nombre": "GLABS DEGREASER 500ML",
+        "precio": "$ 15600,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-degreaser-500ml.jpg"
+    },
+    {
+        "nombre": "GLABS CLEANER INTENSE 1L",
+        "precio": "$ 15900,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-cleaner-intense-1l.jpg"
+    },
+    {
+        "nombre": "GLABS CLEANER INTENSE 500ML",
+        "precio": "$ 16200,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-cleaner-intense-500ml.jpg"
+    },
+    {
+        "nombre": "GLABS NEON CLEANER 500ML",
+        "precio": "$ 16500,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-neon-cleaner-500ml.jpg"
+    },
+    {
+        "nombre": "GLABS TAR OUT 500ML",
+        "precio": "$ 16800,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-tar-out-500ml.jpg"
+    },
+    {
+        "nombre": "GLABS BUGS REMOVER 500ML",
+        "precio": "$ 17100,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-bugs-remover-500ml.jpg"
+    },
+    {
+        "nombre": "GLABS POWER CLEANER 5L",
+        "precio": "$ 17400,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-power-cleaner-5l.jpg"
+    },
+    {
+        "nombre": "GLABS NEON CLEANER 1L",
+        "precio": "$ 17700,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-neon-cleaner-1l.jpg"
+    },
+    {
+        "nombre": "GLABS CLEANER INTENSE 5L",
+        "precio": "$ 18000,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-cleaner-intense-5l.jpg"
+    },
+    {
+        "nombre": "GLABS NEON CLEANER 5L",
+        "precio": "$ 18300,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-neon-cleaner-5l.jpg"
+    },
+    {
+        "nombre": "GLABS DEGREASER 5L",
+        "precio": "$ 18600,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-degreaser-5l.jpg"
+    },
+    {
+        "nombre": "WOVA7 108 LIMPIA LLANTAS 500ML",
+        "precio": "$ 18900,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-108-limpia-llantas-500ml.jpg"
+    },
+    {
+        "nombre": "ALL DETAIL APC GREEN",
+        "precio": "$ 19200,00",
+        "categoria": "GENERAL",
+        "imagen": "all-detail-apc-green.jpg"
+    },
+    {
+        "nombre": "ALL DETAIL APC GREEN 5L",
+        "precio": "$ 19500,00",
+        "categoria": "GENERAL",
+        "imagen": "all-detail-apc-green-5l.jpg"
+    },
+    {
+        "nombre": "DROPS CLEANER SOFT",
+        "precio": "$ 19800,00",
+        "categoria": "GENERAL",
+        "imagen": "drops-cleaner-soft.jpg"
+    },
+    {
+        "nombre": "DROPS CLEANER STRONG",
+        "precio": "$ 20100,00",
+        "categoria": "GENERAL",
+        "imagen": "drops-cleaner-strong.jpg"
+    },
+    {
+        "nombre": "DROPS BUG REMOVER",
+        "precio": "$ 20400,00",
+        "categoria": "GENERAL",
+        "imagen": "drops-bug-remover.jpg"
+    },
+    {
+        "nombre": "DROPS WATERLESS",
+        "precio": "$ 20700,00",
+        "categoria": "GENERAL",
+        "imagen": "drops-waterless.jpg"
+    },
+    {
+        "nombre": "GLABS IPA CLEANER 500ML",
+        "precio": "$ 21000,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-ipa-cleaner-500ml.jpg"
+    },
+    {
+        "nombre": "WOVA7 103 REMOVEDOR DE INSECTOS 500 ML",
+        "precio": "$ 21300,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-103-removedor-de-insectos-500-ml.jpg"
+    },
+    {
+        "nombre": "WOVA7 106 LIMPIA CRISTALES 500 ML",
+        "precio": "$ 21600,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-106-limpia-cristales-500-ml.jpg"
+    },
+    {
+        "nombre": "WOVA7 115 LIMPIA MANOS 250 ML",
+        "precio": "$ 21900,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-115-limpia-manos-250-ml.jpg"
+    },
+    {
+        "nombre": "WOVA7 115 LIMPIA MANOS 400 ML",
+        "precio": "$ 22200,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-115-limpia-manos-400-ml.jpg"
+    },
+    {
+        "nombre": "WOVA7 300 REPELENTE DE AGUA 125 ML",
+        "precio": "$ 22500,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-300-repelente-de-agua-125-ml.jpg"
+    },
+    {
+        "nombre": "WOVA7 300 REPELENTE DE AGUA 250ML",
+        "precio": "$ 22800,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-300-repelente-de-agua-250ml.jpg"
+    },
+    {
+        "nombre": "WOVA7 301 LIQ ANTIEMPANANTE 125 ML",
+        "precio": "$ 23100,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-301-liq-antiempanante-125-ml.jpg"
+    },
+    {
+        "nombre": "WOVA7 301 LIQ ANTIEMPANANTE 250ML",
+        "precio": "$ 23400,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-301-liq-antiempanante-250ml.jpg"
+    },
+    {
+        "nombre": "WOVA7 103 REMOVEDOR DE INSECTOS 5 LTS",
+        "precio": "$ 23700,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-103-removedor-de-insectos-5-lts.jpg"
+    },
+    {
+        "nombre": "WOVA7 106 LIMPIA CRISTALES 5 LTS",
+        "precio": "$ 24000,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-106-limpia-cristales-5-lts.jpg"
+    },
+    {
+        "nombre": "DROPS GLASS CLEANER",
+        "precio": "$ 24300,00",
+        "categoria": "GENERAL",
+        "imagen": "drops-glass-cleaner.jpg"
+    },
+    {
+        "nombre": "GLABS CALIFORNIA SHINE 500ML",
+        "precio": "$ 24600,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-california-shine-500ml.jpg"
+    },
+    {
+        "nombre": "GLABS SHINE RAPID DETAILER 500ML",
+        "precio": "$ 24900,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-shine-rapid-detailer-500ml.jpg"
+    },
+    {
+        "nombre": "GLABS LIQUID FUSION WAX 500ML",
+        "precio": "$ 25200,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-liquid-fusion-wax-500ml.jpg"
+    },
+    {
+        "nombre": "GLABS LIQUID SHINE 500ML",
+        "precio": "$ 25500,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-liquid-shine-500ml.jpg"
+    },
+    {
+        "nombre": "GLABS CALIFORNIA SHINE 5L",
+        "precio": "$ 25800,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-california-shine-5l.jpg"
+    },
+    {
+        "nombre": "ALL DETAIL FAST WAX 500ML",
+        "precio": "$ 26100,00",
+        "categoria": "GENERAL",
+        "imagen": "all-detail-fast-wax-500ml.jpg"
+    },
+    {
+        "nombre": "WOVA7 101 CERA PROTECCION 500 ML",
+        "precio": "$ 26400,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-101-cera-proteccion-500-ml.jpg"
+    },
+    {
+        "nombre": "WOVA7 102 CERA AUTOBRILLO 500 ML",
+        "precio": "$ 26700,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-102-cera-autobrillo-500-ml.jpg"
+    },
+    {
+        "nombre": "WOVA7 101 CERA PROTECCION 5 LTS",
+        "precio": "$ 27000,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-101-cera-proteccion-5-lts.jpg"
+    },
+    {
+        "nombre": "WOVA7 102 CERA AUTOBRILLO 5 LTS",
+        "precio": "$ 27300,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-102-cera-autobrillo-5-lts.jpg"
+    },
+    {
+        "nombre": "DROPS QUICK DETAILER",
+        "precio": "$ 27600,00",
+        "categoria": "GENERAL",
+        "imagen": "drops-quick-detailer.jpg"
+    },
+    {
+        "nombre": "DROPS MIRROR SHINE",
+        "precio": "$ 27900,00",
+        "categoria": "GENERAL",
+        "imagen": "drops-mirror-shine.jpg"
+    },
+    {
+        "nombre": "DROPS BLACK ARMOR",
+        "precio": "$ 28200,00",
+        "categoria": "GENERAL",
+        "imagen": "drops-black-armor.jpg"
+    },
+    {
+        "nombre": "DROPS CARNAUBA WAX",
+        "precio": "$ 28500,00",
+        "categoria": "GENERAL",
+        "imagen": "drops-carnauba-wax.jpg"
+    },
+    {
+        "nombre": "GLABS SHAMPOO PH7 500ML",
+        "precio": "$ 28800,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-shampoo-ph7-500ml.jpg"
+    },
+    {
+        "nombre": "GLABS DEEP WASH 500ML",
+        "precio": "$ 29100,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-deep-wash-500ml.jpg"
+    },
+    {
+        "nombre": "GLABS COLOR SNOW 1L",
+        "precio": "$ 29400,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-color-snow-1l.jpg"
+    },
+    {
+        "nombre": "GLABS POWER SHAMPOO 500ML",
+        "precio": "$ 29700,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-power-shampoo-500ml.jpg"
+    },
+    {
+        "nombre": "GLABS DIAMOND WASH 500ML",
+        "precio": "$ 30000,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-diamond-wash-500ml.jpg"
+    },
+    {
+        "nombre": "GLABS COLOR SNOW 500ML",
+        "precio": "$ 30300,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-color-snow-500ml.jpg"
+    },
+    {
+        "nombre": "GLABS PRE WASH 500ML",
+        "precio": "$ 30600,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-pre-wash-500ml.jpg"
+    },
+    {
+        "nombre": "GLABS DEEP WASH 5L",
+        "precio": "$ 30900,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-deep-wash-5l.jpg"
+    },
+    {
+        "nombre": "GLABS DIAMOND WASH 5L",
+        "precio": "$ 31200,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-diamond-wash-5l.jpg"
+    },
+    {
+        "nombre": "ALL DETAIL SHAMPOO PINK",
+        "precio": "$ 31500,00",
+        "categoria": "GENERAL",
+        "imagen": "all-detail-shampoo-pink.jpg"
+    },
+    {
+        "nombre": "WOVA7 107 LIMPIA MOTORES 500 ML",
+        "precio": "$ 31800,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-107-limpia-motores-500-ml.jpg"
+    },
+    {
+        "nombre": "WOVA 114 APC LIMPIADOR MULTIUSO 500ML",
+        "precio": "$ 32100,00",
+        "categoria": "GENERAL",
+        "imagen": "wova-114-apc-limpiador-multiuso-500ml.jpg"
+    },
+    {
+        "nombre": "WOVA7 100 LAVA COCHES 5 LTS",
+        "precio": "$ 32400,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-100-lava-coches-5-lts.jpg"
+    },
+    {
+        "nombre": "WOVA7 107 LIMPIA MOTORES 5 LTS",
+        "precio": "$ 32700,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-107-limpia-motores-5-lts.jpg"
+    },
+    {
+        "nombre": "WOVA7 112 LAVACOCHES PROF 5 LTS",
+        "precio": "$ 33000,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-112-lavacoches-prof-5-lts.jpg"
+    },
+    {
+        "nombre": "WOVA7 114 APC LIMPIADOR MULTI 5 LTS",
+        "precio": "$ 33300,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-114-apc-limpiador-multi-5-lts.jpg"
+    },
+    {
+        "nombre": "ALL DETAIL POWER DEGREASER 500ML",
+        "precio": "$ 33600,00",
+        "categoria": "GENERAL",
+        "imagen": "all-detail-power-degreaser-500ml.jpg"
+    },
+    {
+        "nombre": "GLABS MULTIOIL 500ML",
+        "precio": "$ 33900,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-multioil-500ml.jpg"
+    },
+    {
+        "nombre": "GLABS IPA SPRAY",
+        "precio": "$ 34200,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-ipa-spray.jpg"
+    },
+    {
+        "nombre": "ALL DETAIL WASH AND GLOSS 5L",
+        "precio": "$ 34500,00",
+        "categoria": "GENERAL",
+        "imagen": "all-detail-wash-and-gloss-5l.jpg"
+    },
+    {
+        "nombre": "DROPS SHAMPOO CON CERA",
+        "precio": "$ 34800,00",
+        "categoria": "GENERAL",
+        "imagen": "drops-shampoo-con-cera.jpg"
+    },
+    {
+        "nombre": "DROPS SHAMPOO NEUTRO",
+        "precio": "$ 35100,00",
+        "categoria": "GENERAL",
+        "imagen": "drops-shampoo-neutro.jpg"
+    },
+    {
+        "nombre": "DROPS SHAMPOO FOAM",
+        "precio": "$ 35400,00",
+        "categoria": "GENERAL",
+        "imagen": "drops-shampoo-foam.jpg"
+    },
+    {
+        "nombre": "GLABS LEATHER CLEANER",
+        "precio": "$ 35700,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-leather-cleaner.jpg"
+    },
+    {
+        "nombre": "GLABS LEATHER LOTION",
+        "precio": "$ 36000,00",
+        "categoria": "GENERAL",
+        "imagen": "glabs-leather-lotion.jpg"
+    },
+    {
+        "nombre": "WOVA 110 RENOVADOR DE CUERO",
+        "precio": "$ 36300,00",
+        "categoria": "GENERAL",
+        "imagen": "wova-110-renovador-de-cuero.jpg"
+    },
+    {
+        "nombre": "WOVA7 100 SHAMPOO LAVA COCHES 500ML",
+        "precio": "$ 36600,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-100-shampoo-lava-coches-500ml.jpg"
+    },
+    {
+        "nombre": "DROPS LEATHER DRESSING",
+        "precio": "$ 36900,00",
+        "categoria": "GENERAL",
+        "imagen": "drops-leather-dressing.jpg"
+    },
+    {
+        "nombre": "DROPS LEATHER CLEANER",
+        "precio": "$ 37200,00",
+        "categoria": "GENERAL",
+        "imagen": "drops-leather-cleaner.jpg"
+    },
+    {
+        "nombre": "MENZERNA 300 1L",
+        "precio": "$ 37500,00",
+        "categoria": "GENERAL",
+        "imagen": "menzerna-300-1l.jpg"
+    },
+    {
+        "nombre": "MENZERNA 400 1L",
+        "precio": "$ 37800,00",
+        "categoria": "GENERAL",
+        "imagen": "menzerna-400-1l.jpg"
+    },
+    {
+        "nombre": "MENZERNA 3800 1L",
+        "precio": "$ 38100,00",
+        "categoria": "GENERAL",
+        "imagen": "menzerna-3800-1l.jpg"
+    },
+    {
+        "nombre": "MENZERNA 3 EN 1 1L",
+        "precio": "$ 38400,00",
+        "categoria": "GENERAL",
+        "imagen": "menzerna-3-en-1-1l.jpg"
+    },
+    {
+        "nombre": "SONAX GLASS POLISH 250ML",
+        "precio": "$ 38700,00",
+        "categoria": "GENERAL",
+        "imagen": "sonax-glass-polish-250ml.jpg"
+    },
+    {
+        "nombre": "MENZERNA METAL POLISH 125G",
+        "precio": "$ 39000,00",
+        "categoria": "GENERAL",
+        "imagen": "menzerna-metal-polish-125g.jpg"
+    },
+    {
+        "nombre": "MENZERNA 3 EN 1 250ML",
+        "precio": "$ 39300,00",
+        "categoria": "GENERAL",
+        "imagen": "menzerna-3-en-1-250ml.jpg"
+    },
+    {
+        "nombre": "DROPS PAINT PREPARE",
+        "precio": "$ 39600,00",
+        "categoria": "GENERAL",
+        "imagen": "drops-paint-prepare.jpg"
+    },
+    {
+        "nombre": "SAPHIRUS ROUTE 66",
+        "precio": "$ 39900,00",
+        "categoria": "GENERAL",
+        "imagen": "saphirus-route-66.jpg"
+    },
+    {
+        "nombre": "SAPHIRUS 60ML",
+        "precio": "$ 40200,00",
+        "categoria": "GENERAL",
+        "imagen": "saphirus-60ml.jpg"
+    },
+    {
+        "nombre": "WALKER LATA MINI",
+        "precio": "$ 40500,00",
+        "categoria": "GENERAL",
+        "imagen": "walker-lata-mini.jpg"
+    },
+    {
+        "nombre": "WOVA7 AROMATIZANTE 125ML",
+        "precio": "$ 40800,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-aromatizante-125ml.jpg"
+    },
+    {
+        "nombre": "WOVA7 AROMATIZANTE 250ML",
+        "precio": "$ 41100,00",
+        "categoria": "GENERAL",
+        "imagen": "wova7-aromatizante-250ml.jpg"
+    },
+    {
+        "nombre": "DROPS PERFUME COLGANTE",
+        "precio": "$ 41400,00",
+        "categoria": "GENERAL",
+        "imagen": "drops-perfume-colgante.jpg"
+    },
+    {
+        "nombre": "GIBER MULTISPRAYER 500",
+        "precio": "$ 41700,00",
+        "categoria": "GENERAL",
+        "imagen": "giber-multisprayer-500.jpg"
+    },
+    {
+        "nombre": "LAFFITTE BALDE DE LAVADO 10LTS",
+        "precio": "$ 42000,00",
+        "categoria": "GENERAL",
+        "imagen": "laffitte-balde-de-lavado-10lts.jpg"
+    },
+    {
+        "nombre": "POLIAUTO APLICADOR PARA SILICONA DE NEUMATICOS",
+        "precio": "$ 42300,00",
+        "categoria": "GENERAL",
+        "imagen": "poliauto-aplicador-para-silicona-de-neumaticos.jpg"
+    },
+    {
+        "nombre": "APLICADOR POLIESPUMA VERDE",
+        "precio": "$ 42600,00",
+        "categoria": "GENERAL",
+        "imagen": "aplicador-poliespuma-verde.jpg"
+    },
+    {
+        "nombre": "REPUESTO GATILLO ROCIADOR",
+        "precio": "$ 42900,00",
+        "categoria": "GENERAL",
+        "imagen": "repuesto-gatillo-rociador.jpg"
+    },
+    {
+        "nombre": "KM APLICADOR DE ESPUMA VERDE 35",
+        "precio": "$ 43200,00",
+        "categoria": "GENERAL",
+        "imagen": "km-aplicador-de-espuma-verde-35.jpg"
+    },
+    {
+        "nombre": "OVERCARS CEPILLO TAPIZADOS",
+        "precio": "$ 43500,00",
+        "categoria": "GENERAL",
+        "imagen": "overcars-cepillo-tapizados.jpg"
+    },
+    {
+        "nombre": "AUTOCARE KIT X5 CEPILLOS",
+        "precio": "$ 43800,00",
+        "categoria": "GENERAL",
+        "imagen": "autocare-kit-x5-cepillos.jpg"
+    },
+    {
+        "nombre": "3D CEPILLO PELO DE PERRO",
+        "precio": "$ 44100,00",
+        "categoria": "GENERAL",
+        "imagen": "3d-cepillo-pelo-de-perro.jpg"
+    },
+    {
+        "nombre": "POLIAUTO CEPILLO MICROFIBRA CORTO PARA LLANTA",
+        "precio": "$ 44400,00",
+        "categoria": "GENERAL",
+        "imagen": "poliauto-cepillo-microfibra-corto-para-llanta.jpg"
+    },
+    {
+        "nombre": "LAFFITTE BROCHA DETALLADO",
+        "precio": "$ 44700,00",
+        "categoria": "GENERAL",
+        "imagen": "laffitte-brocha-detallado.jpg"
+    },
+    {
+        "nombre": "3D CEPILLO PARA LLANTAS SPOKE CHICO",
+        "precio": "$ 45000,00",
+        "categoria": "GENERAL",
+        "imagen": "3d-cepillo-para-llantas-spoke-chico.jpg"
+    },
+    {
+        "nombre": "LAFFITE CEPILLO LARGO",
+        "precio": "$ 45300,00",
+        "categoria": "GENERAL",
+        "imagen": "laffite-cepillo-largo.jpg"
+    },
+    {
+        "nombre": "LAFFITTE CEPILLO CORTO",
+        "precio": "$ 45600,00",
+        "categoria": "GENERAL",
+        "imagen": "laffitte-cepillo-corto.jpg"
+    },
+    {
+        "nombre": "AUTOCARE PINCEL",
+        "precio": "$ 45900,00",
+        "categoria": "GENERAL",
+        "imagen": "autocare-pincel.jpg"
+    },
+    {
+        "nombre": "LOGO",
+        "precio": "$ 46200,00",
+        "categoria": "GENERAL",
+        "imagen": "logo.png"
+    }
+]
