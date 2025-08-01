@@ -219,19 +219,44 @@ footer {
   .search-bar,
   .header-content {
     flex-direction: column;
-    gap: 10px;
+    align-items: center;
+    text-align: center;
+    gap: 14px;
   }
 
-  .whatsapp-float img {
-    width: 50px;
-    height: 50px;
+  .logo {
+    width: 190px;
+    margin: 8px 0;
+    animation: fadeIn 0.8s ease-in-out both;
+  }
+
+  h1 {
+    font-size: 24px;
+    margin: 0;
+    line-height: 1.2;
+  }
+
+  #categoryTitle {
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    margin: 16px 0 10px;
+    padding: 8px 20px;
+    text-align: center;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    font-family: 'Orbitron', sans-serif;
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+    display: block;
+    line-height: 1.3;
   }
 
   #searchInput {
     font-size: 18px;
     padding: 14px 16px;
-    padding-left: 58px; /* corregido */
-    background-position: 16px center; /* corregido */
+    padding-left: 58px; /* espacio para lupa */
+    background-position: 16px center;
     height: auto;
     width: 100%;
     box-sizing: border-box;
@@ -239,26 +264,22 @@ footer {
 
   #categorySelect {
     font-size: 18px;
-    padding: 14px 16px;
+    padding: 16px;
     height: auto;
     width: 100%;
     box-sizing: border-box;
+    border-radius: 8px;
+    background-color: rgba(30, 30, 30, 0.7);
+    color: white;
   }
 
-  .logo {
-    width: 170px;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    animation: fadeIn 0.8s ease-in-out both;
+  .whatsapp-float {
+    bottom: 18px;
+    right: 18px;
   }
 
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: translateY(-10px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
+  .whatsapp-float img {
+    width: 56px;
+    height: 56px;
   }
 }
