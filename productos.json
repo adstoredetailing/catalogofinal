@@ -2,97 +2,97 @@
     {
         "nombre": "LAFFITTE MICROFIBRA DE SECADO 80X40",
         "precio": "$ 1500,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "MICROFIBRAS",
         "imagen": "laffitte-microfibra-de-secado-80x40.jpg"
     },
     {
         "nombre": "MAXSHINE MICROFIBRA AMARILLA 40X60",
         "precio": "SIN STOCK",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "MICROFIBRAS",
         "imagen": "maxshine-microfibra-amarilla-40x60.jpg"
     },
     {
         "nombre": "LAFFITE MICROFIBRA DE SECADO 60X40",
         "precio": "$ 2100,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "MICROFIBRAS",
         "imagen": "laffite-microfibra-de-secado-60x40.jpg"
     },
     {
         "nombre": "LAFFITTE MANOPLA PROFESIONAL MICROFIBRA",
         "precio": "$ 2400,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "MICROFIBRAS",
         "imagen": "laffitte-manopla-profesional-microfibra.jpg"
     },
     {
         "nombre": "LAFFITTE MICROFIBRA MULTIUSO 35X35",
         "precio": "$ 2700,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "MICROFIBRAS",
         "imagen": "laffitte-microfibra-multiuso-35x35.jpg"
     },
     {
         "nombre": "LAFFITTE MICROFIBRA VIDRIOS 35X35",
         "precio": "$ 3000,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "MICROFIBRAS",
         "imagen": "laffitte-microfibra-vidrios-35x35.jpg"
     },
     {
         "nombre": "LAFFITTE MANOPLA RASTAS",
         "precio": "$ 3300,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "MICROFIBRAS",
         "imagen": "laffitte-manopla-rastas.jpg"
     },
     {
         "nombre": "LAFFITTE MICROFIBRA MULTIUSO GRIS 40X40",
         "precio": "$ 3600,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "MICROFIBRAS",
         "imagen": "laffitte-microfibra-multiuso-gris-40x40.jpg"
     },
     {
         "nombre": "MAXSHINE MICROFIBRA AZUL 40X40",
         "precio": "SIN STOCK",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "MICROFIBRAS",
         "imagen": "maxshine-microfibra-azul-40x40.jpg"
     },
     {
         "nombre": "LAFFITTE MICROFIBRA MULTIUSO 60X40",
         "precio": "$ 4200,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "MICROFIBRAS",
         "imagen": "laffitte-microfibra-multiuso-60x40.jpg"
     },
     {
         "nombre": "LAFFITTE MICROFIBRA DE SECADO 90X60",
         "precio": "$ 4500,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "MICROFIBRAS",
         "imagen": "laffitte-microfibra-de-secado-90x60.jpg"
     },
     {
         "nombre": "LAFFITTE MICROFIBRA DE SECADO 70X50",
         "precio": "$ 4800,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "MICROFIBRAS",
         "imagen": "laffitte-microfibra-de-secado-70x50.jpg"
     },
     {
         "nombre": "LAFFITTE MICROFIBRA DE SECADO WAFLE 60X40",
         "precio": "$ 5100,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "MICROFIBRAS",
         "imagen": "laffitte-microfibra-de-secado-wafle-60x40.jpg"
     },
     {
         "nombre": "LAFFITTE APLICADOR DE MICROFIBRA CON BOLSILLO MULTIUSO",
         "precio": "$ 5400,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "ACCESORIOS",
         "imagen": "laffitte-aplicador-de-microfibra-con-bolsillo-multiuso.jpg"
     },
     {
         "nombre": "ALL DETAIL MANOPLA MICROFIBRA",
         "precio": "$ 5700,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "MICROFIBRAS",
         "imagen": "all-detail-manopla-microfibra.jpg"
     },
     {
         "nombre": "ALL DETAIL ESPONJA PARA INSECTOS",
         "precio": "$ 6000,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "ACCESORIOS",
         "imagen": "all-detail-esponja-para-insectos.jpg"
     },
     {
@@ -158,7 +158,7 @@
     {
         "nombre": "POLIAUTO APLICADOR AMARILLO DE ESPUMA",
         "precio": "$ 9300,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "ACCESORIOS",
         "imagen": "poliauto-aplicador-amarillo-de-espuma.jpg"
     },
     {
@@ -656,7 +656,7 @@
     {
         "nombre": "DROPS SHAMPOO CON CERA",
         "precio": "$ 34800,00",
-        "categoria": "CERAS & PROTECCIONES",
+        "categoria": "SHAMPOO",
         "imagen": "drops-shampoo-con-cera.png"
     },
     {
@@ -794,91 +794,91 @@
     {
         "nombre": "GIBER MULTISPRAYER 500",
         "precio": "$ 41700,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "ACCESORIOS",
         "imagen": "giber-multisprayer-500.jpg"
     },
     {
         "nombre": "LAFFITTE BALDE DE LAVADO 10LTS",
         "precio": "$ 42000,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "ACCESORIOS",
         "imagen": "laffitte-balde-de-lavado-10lts.jpg"
     },
     {
         "nombre": "POLIAUTO APLICADOR PARA SILICONA DE NEUMATICOS",
         "precio": "$ 42300,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "ACCESORIOS",
         "imagen": "poliauto-aplicador-para-silicona-de-neumaticos.jpg"
     },
     {
         "nombre": "APLICADOR POLIESPUMA VERDE",
         "precio": "$ 42600,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "ACCESORIOS",
         "imagen": "aplicador-poliespuma-verde.jpg"
     },
     {
         "nombre": "REPUESTO GATILLO ROCIADOR",
         "precio": "$ 42900,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "ACCESORIOS",
         "imagen": "repuesto-gatillo-rociador.jpg"
     },
     {
         "nombre": "KM APLICADOR DE ESPUMA VERDE 35",
         "precio": "$ 43200,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "ACCESORIOS",
         "imagen": "km-aplicador-de-espuma-verde-35.jpg"
     },
     {
         "nombre": "OVERCARS CEPILLO TAPIZADOS",
         "precio": "$ 43500,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "ACCESORIOS",
         "imagen": "overcars-cepillo-tapizados.jpg"
     },
     {
         "nombre": "AUTOCARE KIT X5 CEPILLOS",
         "precio": "$ 43800,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "ACCESORIOS",
         "imagen": "autocare-kit-x5-cepillos.jpg"
     },
     {
         "nombre": "3D CEPILLO PELO DE PERRO",
         "precio": "$ 44100,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "ACCESORIOS",
         "imagen": "3d-cepillo-pelo-de-perro.jpg"
     },
     {
-        "nombre": "POLIAUTO CEPILLO MICROFIBRA CORTO PARA LLANTA",
+        "nombre": "POLIAUTO MICROFIBRA PARA LLANTAS",
         "precio": "$ 44400,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "ACCESORIOS",
         "imagen": "poliauto-cepillo-microfibra-corto-para-llanta.jpg"
     },
     {
-        "nombre": "LAFFITTE BROCHA DETALLADO",
+        "nombre": "LAFFITTE CEPILLO DETALLADO",
         "precio": "$ 4470",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "ACCESORIOS",
         "imagen": "laffitte-brocha-detallado.jpg"
     },
     {
         "nombre": "3D CEPILLO PARA LLANTAS SPOKE CHICO",
         "precio": "$ 45000,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "ACCESORIOS",
         "imagen": "3d-cepillo-para-llantas-spoke-chico.jpg"
     },
     {
         "nombre": "LAFFITE CEPILLO LARGO",
         "precio": "$ 45300,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "ACCESORIOS",
         "imagen": "laffite-cepillo-largo.jpg"
     },
     {
         "nombre": "LAFFITTE CEPILLO CORTO",
         "precio": "$ 45600,00",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "ACCESORIOS",
         "imagen": "laffitte-cepillo-corto.jpg"
     },
     {
         "nombre": "AUTOCARE PINCEL",
         "precio": "$ 4590",
-        "categoria": "MICROFIBRAS & ACCESORIOS",
+        "categoria": "ACCESORIOS",
         "imagen": "autocare-pincel.jpg"
     }
 ]
