@@ -227,7 +227,16 @@ footer {
     height: 50px;
   }
 
-  #searchInput,
+  #searchInput {
+    font-size: 18px;
+    padding: 14px 16px;
+    padding-left: 58px; /* corregido */
+    background-position: 16px center; /* corregido */
+    height: auto;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
   #categorySelect {
     font-size: 18px;
     padding: 14px 16px;
@@ -242,7 +251,6 @@ footer {
     margin-bottom: 10px;
     animation: fadeIn 0.8s ease-in-out both;
   }
-}
 
 @keyframes fadeIn {
   from {
