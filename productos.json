@@ -762,7 +762,7 @@
         "imagen": "saphirus-60ml.jpg"
     },
     {
-        "nombre": "WALKER LATA MINI",
+        "nombre": "WALKER LATA",
         "precio": "$ 40500,00",
         "categoria": "AROMATIZANTES",
         "imagen": "walker-lata-mini.jpg"
@@ -786,7 +786,7 @@
         "imagen": "drops-perfume-colgante.png"
     },
     {
-        "nombre": "GIBER MULTISPRAYER 500",
+        "nombre": "GIBER MULTISPRAYER 500ML",
         "precio": "$ 41700,00",
         "categoria": "ACCESORIOS",
         "imagen": "giber-multisprayer-500.jpg"
@@ -798,13 +798,13 @@
         "imagen": "laffitte-balde-de-lavado-10lts.jpg"
     },
     {
-        "nombre": "POLIAUTO APLICADOR PARA SILICONA DE NEUMATICOS",
+        "nombre": "POLIAUTO APLICADOR PARA NEUMATICOS",
         "precio": "$ 42300,00",
         "categoria": "ACCESORIOS",
         "imagen": "poliauto-aplicador-para-silicona-de-neumaticos.jpg"
     },
     {
-        "nombre": "ALL DETAIL APLICADOR PARA CUBIERTAS",
+        "nombre": "ALL DETAIL APLICADOR PARA NEUMATICOS",
         "precio": "$ 42600,00",
         "categoria": "ACCESORIOS",
         "imagen": "all-detail-aplicador-para-cubiertas.jpg"
@@ -822,7 +822,7 @@
         "imagen": "km-aplicador-de-espuma-verde-35.jpg"
     },
     {
-        "nombre": "OVERCARS CEPILLO TAPIZADOS",
+        "nombre": "OVERCARS CEPILLO PARA TAPIZADOS",
         "precio": "$ 43500,00",
         "categoria": "ACCESORIOS",
         "imagen": "overcars-cepillo-tapizados.jpg"
@@ -858,19 +858,19 @@
         "imagen": "3d-cepillo-para-llantas-spoke-chico.jpg"
     },
     {
-        "nombre": "LAFFITE CEPILLO LARGO",
+        "nombre": "LAFFITE CEPILLO PASARRUEDAS/LLANTAS LARGO",
         "precio": "$ 45300,00",
         "categoria": "ACCESORIOS",
         "imagen": "laffite-cepillo-largo.jpg"
     },
     {
-        "nombre": "LAFFITTE CEPILLO CORTO",
+        "nombre": "LAFFITTE CEPILLO PASARRUEDAS/LLANTAS CORTO",
         "precio": "$ 45600,00",
         "categoria": "ACCESORIOS",
         "imagen": "laffitte-cepillo-corto.jpg"
     },
     {
-        "nombre": "AUTOCARE PINCEL",
+        "nombre": "AUTOCARE PINCEL PARA NEUMATICOS",
         "precio": "$ 4590",
         "categoria": "ACCESORIOS",
         "imagen": "autocare-pincel.jpg"
