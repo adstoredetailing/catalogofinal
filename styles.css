@@ -10,38 +10,56 @@ body {
   color: #fff;
   text-align: center;
 }
-
 header {
-  background-color: #111;
-  padding: 20px;
+  background: linear-gradient(to right, #0f0f0f, #1a1a1a); /* degradado elegante */
+  padding: 10px 0;
+  animation: fadeIn 1s ease-in-out;
 }
 
-/* Logo principal */
-.logo {
-  width: 400px; /* Podés ajustar este valor */
-  height: auto;
-  margin: 10px auto;
-  display: block;
-}
-
-/* Contenedor header */
 .header-content {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 15px;
-  padding: 20px 10px;
+  gap: 12px;
+  padding: 10px 20px;
   text-align: center;
-  background-color: #111;
 }
 
-/* Contenedor de redes (Instagram + WhatsApp) */
+.logo {
+  width: 220px;
+  margin: 0 auto;
+  display: block;
+  filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.05));
+  transition: transform 0.3s ease;
+}
+.logo:hover {
+  transform: scale(1.03);
+}
+
+h1 {
+  font-size: 22px;
+  color: white;
+  margin: 4px 0;
+  letter-spacing: 1px;
+}
+
+/* Redes sociales */
 .redes-header {
   display: flex;
   align-items: center;
-  justify-content: center;
-  gap: 20px;
-  flex-wrap: wrap;
+  gap: 16px;
+  font-size: 14px;
+}
+.redes-header a {
+  color: white;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  transition: opacity 0.2s;
+}
+.redes-header a:hover {
+  opacity: 0.8;
 }
 
 /* Enlaces con íconos */
@@ -183,13 +201,13 @@ footer {
  #categoryTitle {
   color: white;
   text-align: center;
-  margin-top: 20px;
+  margin-top: 10px;
   font-weight: 500;
-  font-size: 22px;
-  text-shadow: 3px 3px 8px rgba(0, 0, 0, 1);
-  background-color: rgba(0, 0, 0, 0.5);
-  padding: 8px 20px;
-  border-radius: 10px;
+  font-size: 20px;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 6px 18px;
+  border-radius: 8px;
   display: inline-block;
 }
 @media (max-width: 600px) {
@@ -206,12 +224,13 @@ footer {
 
     /* Ícono de lupa dentro del input */
 #searchInput {
-  background-image: url('data:image/svg+xml;utf8,<svg fill="gray" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M505 442.7L405.3 343c28.4-35.3 45.7-80 45.7-128C451 96.5 354.5 0 233 0S15 96.5 15 215.1 111.5 430.2 233 430.2c48 0 92.7-17.3 128-45.7L442.7 505c9.3 9.3 24.4 9.3 33.7 0l28.6-28.6c9.3-9.4 9.3-24.4 0-33.7zM233 368.1c-84.5 0-153-68.5-153-153s68.5-153 153-153 153 68.5 153 153-68.5 153-153 153z"/></svg>');
+  background-image: url('data:image/svg+xml;utf8,<svg fill="white" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M505 442.7L405.3 343c28.4-35.3 45.7-80 45.7-128C451 96.5 354.5 0 233 0S15 96.5 15 215.1 111.5 430.2 233 430.2c48 0 92.7-17.3 128-45.7L442.7 505c9.3 9.3 24.4 9.3 33.7 0l28.6-28.6c9.3-9.4 9.3-24.4 0-33.7zM233 368.1c-84.5 0-153-68.5-153-153s68.5-153 153-153 153 68.5 153 153-68.5 153-153 153z"/></svg>');
   background-size: 18px;
   background-repeat: no-repeat;
   background-position: 12px center;
-  padding-left: 42px; /* espacio para que no se pise con el texto */
+  padding-left: 42px;
 }
+    
 @media (max-width: 600px) {
   #searchInput,
   #categorySelect {
@@ -228,4 +247,8 @@ footer {
     margin-top: 10px;
     margin-bottom: 10px;
   }
+     @keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
 }
