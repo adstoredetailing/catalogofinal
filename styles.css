@@ -4,11 +4,24 @@ body {
   background-position: center;
   background-attachment: fixed;
   color: white;
+  font-family: 'Orbitron', sans-serif; /* Estilo galáctico */
 }
+
+/* Overlay oscuro para mejorar contraste */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(0, 0, 0, 0.4); /* Ajustable */
+  z-index: -1;
+}
+
 header {
-  background: linear-gradient(to right, #0f0f0f, #1a1a1a); /* degradado elegante */
-  padding: 10px 0;
+  background: linear-gradient(to right, #0f0f0f, #1a1a1a);
+  padding: 20px 0 10px 0;
   animation: fadeIn 1s ease-in-out;
+  text-align: center;
 }
 
 .header-content {
