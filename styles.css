@@ -194,6 +194,7 @@ footer {
   background-color: #000;
   padding: 20px;
   font-size: 0.9em;
+  text-align: center; /* ← esto es lo que te falta */
 }
 
 .whatsapp-float {
