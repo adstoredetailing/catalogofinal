@@ -1,19 +1,20 @@
+/* Estilos globales */
 body {
   background-image: url('fondo-catalogo-oscuro.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
   color: white;
-  font-family: 'Orbitron', sans-serif; /* Estilo galáctico */
+  font-family: 'Orbitron', sans-serif;
 }
 
-/* Overlay oscuro para mejorar contraste */
+/* Fondo oscuro para mejor contraste */
 body::before {
   content: "";
   position: fixed;
   top: 0; left: 0;
   width: 100%; height: 100%;
-  background: rgba(0, 0, 0, 0.4); /* Ajustable */
+  background: rgba(0, 0, 0, 0.4);
   z-index: -1;
 }
 
@@ -45,10 +46,12 @@ header {
 }
 
 h1 {
-  font-size: 22px;
+  font-size: 2em;
+  margin: 10px 0 0 0;
+  font-weight: 600;
   color: white;
-  margin: 4px 0;
   letter-spacing: 1px;
+  text-align: center;
 }
 
 /* Redes sociales */
@@ -58,6 +61,7 @@ h1 {
   gap: 16px;
   font-size: 14px;
 }
+
 .redes-header a {
   color: white;
   text-decoration: none;
@@ -66,11 +70,11 @@ h1 {
   gap: 6px;
   transition: opacity 0.2s;
 }
+
 .redes-header a:hover {
   opacity: 0.8;
 }
 
-/* Enlaces con íconos */
 .insta-link,
 .whatsapp-btn-header {
   display: inline-flex;
@@ -89,20 +93,11 @@ h1 {
   color: #25D366;
 }
 
-/* Tamaño íconos */
 .insta-link img,
 .whatsapp-btn-header img {
   width: 20px;
   height: 20px;
   object-fit: contain;
-}
-
-/* Título principal */
-h1 {
-  font-size: 2em;
-  margin: 10px 0 0 0;
-  font-weight: 600;
-  color: white;
 }
 
 /* Buscador */
@@ -119,7 +114,7 @@ input, select {
   border-radius: 8px;
   border: none;
   font-size: 1em;
-  background-color: rgba(30, 30, 30, 0.7); /* gris oscuro translúcido */
+  background-color: rgba(30, 30, 30, 0.7);
   color: white;
   backdrop-filter: blur(4px);
   transition: background-color 0.3s ease;
@@ -128,85 +123,16 @@ input, select {
 input::placeholder {
   color: #ccc;
 }
-/* Productos */
-main {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 20px;
-  padding: 20px;
+
+#searchInput {
+  background-image: url('data:image/svg+xml;utf8,<svg fill="white" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M505 442.7L405.3 343c28.4-35.3 45.7-80 45.7-128C451 96.5 354.5 0 233 0S15 96.5 15 215.1 111.5 430.2 233 430.2c48 0 92.7-17.3 128-45.7L442.7 505c9.3 9.3 24.4 9.3 33.7 0l28.6-28.6c9.3-9.4 9.3-24.4 0-33.7zM233 368.1c-84.5 0-153-68.5-153-153s68.5-153 153-153 153 68.5 153 153-68.5 153-153 153z"/></svg>');
+  background-size: 18px;
+  background-repeat: no-repeat;
+  background-position: 12px center;
+  padding-left: 42px;
 }
 
-.product-card {
-  background-color: #1a1a1a;
-  padding: 16px;
-  border-radius: 12px;
-  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
-  transition: transform 0.2s ease;
-}
-.product-card:hover {
-  transform: scale(1.02);
-}
-.product-card img {
-  width: 100%;
-  height: 200px;
-  object-fit: contain;
-  margin-bottom: 10px;
-}
-.product-card h3 {
-  font-size: 1.1em;
-  margin: 0;
-}
-.product-card .precio {
-  color: #f1c40f;
-  font-weight: bold;
-  margin-top: 8px;
-}
-.product-card .categoria {
-  font-size: 0.9em;
-  color: #ccc;
-}
-
-/* Footer */
-footer {
-  background-color: #000;
-  padding: 20px;
-  font-size: 0.9em;
-}
-
-/* Botón flotante de WhatsApp */
-.whatsapp-float {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  z-index: 999;
-  transition: transform 0.2s ease;
-}
-.whatsapp-float:hover {
-  transform: scale(1.05);
-}
-.whatsapp-float img {
-  width: 60px;
-  height: 60px;
-  object-fit: contain;
-}
-
-/* Responsive */
-@media (max-width: 600px) {
-  .search-bar {
-    flex-direction: column;
-    gap: 10px;
-  }
-
-  .header-content {
-    flex-direction: column;
-    gap: 10px;
-  }
-
-  .whatsapp-float img {
-    width: 50px;
-    height: 50px;
-  }
-  
+/* Categoría */
 #categoryTitle {
   width: 100%;
   text-align: center;
@@ -221,17 +147,86 @@ footer {
   text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
   display: block;
 }
-  
-    /* Ícono de lupa dentro del input */
-#searchInput {
-  background-image: url('data:image/svg+xml;utf8,<svg fill="white" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M505 442.7L405.3 343c28.4-35.3 45.7-80 45.7-128C451 96.5 354.5 0 233 0S15 96.5 15 215.1 111.5 430.2 233 430.2c48 0 92.7-17.3 128-45.7L442.7 505c9.3 9.3 24.4 9.3 33.7 0l28.6-28.6c9.3-9.4 9.3-24.4 0-33.7zM233 368.1c-84.5 0-153-68.5-153-153s68.5-153 153-153 153 68.5 153 153-68.5 153-153 153z"/></svg>');
-  background-size: 18px;
-  background-repeat: no-repeat;
-  background-position: 12px center;
-  padding-left: 42px;
+
+main {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 20px;
+  padding: 20px;
 }
-    
+
+.product-card {
+  background-color: #1a1a1a;
+  padding: 16px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+  transition: transform 0.2s ease;
+}
+
+.product-card:hover {
+  transform: scale(1.02);
+}
+
+.product-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: contain;
+  margin-bottom: 10px;
+}
+
+.product-card h3 {
+  font-size: 1.1em;
+  margin: 0;
+}
+
+.product-card .precio {
+  color: #f1c40f;
+  font-weight: bold;
+  margin-top: 8px;
+}
+
+.product-card .categoria {
+  font-size: 0.9em;
+  color: #ccc;
+}
+
+footer {
+  background-color: #000;
+  padding: 20px;
+  font-size: 0.9em;
+}
+
+.whatsapp-float {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 999;
+  transition: transform 0.2s ease;
+}
+
+.whatsapp-float:hover {
+  transform: scale(1.05);
+}
+
+.whatsapp-float img {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+}
+
+/* Responsive */
 @media (max-width: 600px) {
+  .search-bar,
+  .header-content {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .whatsapp-float img {
+    width: 50px;
+    height: 50px;
+  }
+
   #searchInput,
   #categorySelect {
     font-size: 18px;
