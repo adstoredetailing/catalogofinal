@@ -1,14 +1,9 @@
 body {
-  margin: 0;
-  background-image: url('fondo-catalogo.jpg');
-  background-position: center top;
-  background-repeat: no-repeat;
+  background-image: url('fondo-catalogo-oscuro.jpg');
   background-size: cover;
+  background-position: center;
   background-attachment: fixed;
-  background-color: #000; /* por si no carga la imagen */
-  font-family: 'Poppins', sans-serif;
-  color: #fff;
-  text-align: center;
+  color: white;
 }
 header {
   background: linear-gradient(to right, #0f0f0f, #1a1a1a); /* degradado elegante */
